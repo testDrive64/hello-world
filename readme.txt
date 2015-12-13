@@ -1,0 +1,5 @@
+This folder I have created to try a few things in Github
+
+* Here we can add ideas
+* Here important names
+* Here important files
