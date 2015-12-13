@@ -1,4 +1,5 @@
-This folder I have created to try a few things in Github
+This folder was created to try a few things in Github
+
 ///////////////////////
 * Here we can add ideas
 ///////////////////////
